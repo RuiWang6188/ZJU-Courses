@@ -1,0 +1,22 @@
+# Assignment #4: Projector-Camera-Based Setreo Vision
+- Goal: Depth Measurement using Structred Lighting
+- Approach #1: 2 Cameras + 1 Projector
+    - Stereo calibration the two cameras
+    - Project a pattern / a few patterns
+    - Establish the correspondences between stereo calibrated cameras
+    - Triangulate (Depth map & 3D point cloud)
+- Approach #2: 1 Cameras + 1 Projector
+    - Calibrate the camera-projector system
+        - [reference](https://mesh.brown.edu/calibration/)
+    - Project a pattern / a few patterns
+    - Establish the correspondences between camera pixels and projector pixels
+    - Triangulate (Depth map & 3D point cloud)
+- Due Data: 11/01
+
+- Sequential Patterns (==Pixel==-wise Comparison)
+    - Gray Code
+    - Phase Shift
+    - Reference: High-Accurarcy Stereo Depth Maps Using Structured Light, Scharstein and Szeliski, CVPR 2003.
+- Single-shot Pattern (==Patch==-wise Comparison)
+    - Noisy Dot Patterns
+        - What are good single-shot patterns?

@@ -1,0 +1,1 @@
+since there's only one source file in this project, you are expected to run DS project1 directly, follow the instruction shown and input base plus exponent for program calculation, the result (including iterations,ticks,total time,durations ) for each algorithm will be shown correspondingly.

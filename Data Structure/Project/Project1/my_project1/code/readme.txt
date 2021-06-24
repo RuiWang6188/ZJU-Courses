@@ -1,0 +1,2 @@
+1. To build the project, you need to add the header files in the "header files" to the project, as well as the .c code "project1".
+2. When running the program, you need to input the exponent N first. And then you will test the 3 algorithm respectively. In each test, you have to input the iteration number k (determine the number of loops the specific algorithm will run), then the total time (duration) will be shown in the console.

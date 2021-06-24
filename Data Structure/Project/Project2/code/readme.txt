@@ -1,0 +1,6 @@
+1. There're 4 files in this folder. "header files" is the header file needed in this project.  "Project2.c" is the source code and  "Project2.exe" is the executable file of this project. "max size test" is the maximum size test case, you can copy the content and test the output in the "Project2.exe".
+
+2. To build the project, you need to include the header files in the "header files" to the project, as well as the .c code "Project2".
+
+3. Input Specification:
+         For each case, the first line contains 4 numbers: C​max​​  (≤100), always an even number, is the maximum capacity of each station; N (≤500), the total number of stations; S​p​​ , the index of the problem station (the stations are numbered from 1 to N, and PBMC is represented by the vertex 0); and M, the number of roads. The second line contains N non-negative numbers C​i​​  (i=1,⋯,N) where each C​i​​  is the current number of bikes at S​i​​  respectively. Then M lines follow, each contains 3 numbers: S​i​​ , S​j​​ , and T​ij​​  which describe the time T​ij​​  taken to move betwen stations S​i​​  and S​j​​ . All the numbers in a line are separated by a space.

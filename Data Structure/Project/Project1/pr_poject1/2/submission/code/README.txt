@@ -1,0 +1,1 @@
+执行gcc main.c -o main编译

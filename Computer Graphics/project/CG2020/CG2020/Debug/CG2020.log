@@ -1,0 +1,165 @@
+﻿  CG2020.cpp
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\BaseElement.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\BaseElement.h(123,1): warning C4305: “参数”: 从“double”到“GLfloat”截断
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\BaseElement.h(323,1): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\BaseElement.h(411,1): warning C4305: “参数”: 从“double”到“GLfloat”截断
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\BaseElement.h(650,19): warning C4244: “初始化”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\BaseElement.h(652,19): warning C4244: “初始化”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\BaseElement.h(674,9): warning C4101: “j”: 未引用的局部变量
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\BaseElement.h(674,6): warning C4101: “i”: 未引用的局部变量
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\BaseElement.h(738,16): warning C4244: “初始化”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\BaseElement.h(740,16): warning C4244: “初始化”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\Solar.h(48,25): warning C4305: “参数”: 从“double”到“GLfloat”截断
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\SpeedUnit.h(73,21): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\my_draw.h(72,43): warning C4244: “参数”: 从“GLfloat”转换到“int”，可能丢失数据
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\my_draw.h(73,44): warning C4244: “参数”: 从“GLfloat”转换到“int”，可能丢失数据
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\objLoader.h(195,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\objLoader.h(205,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\button.h(51,1): warning C4305: “参数”: 从“double”到“GLfloat”截断
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\button.h(54,1): warning C4305: “参数”: 从“double”到“GLfloat”截断
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\button.h(57,1): warning C4305: “参数”: 从“double”到“GLfloat”截断
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\button.h(74,71): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\button.h(74,35): warning C4244: “参数”: 从“GLfloat”转换到“int”，可能丢失数据
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\library\gl\glui.h(711,33): warning C4251: “GLUI_Main::window_name”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“GLUI_Main”的客户端使用
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\xstring(4648): message : 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\library\gl\glui.h(804,25): warning C4251: “GLUI_Control::text”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“GLUI_Control”的客户端使用
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\xstring(4648): message : 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\library\gl\glui.h(813,35): warning C4251: “GLUI_Control::last_live_text”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“GLUI_Control”的客户端使用
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\xstring(4648): message : 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\library\gl\glui.h(821,25): warning C4251: “GLUI_Control::name”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“GLUI_Control”的客户端使用
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\xstring(4648): message : 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\library\gl\glui.h(883,47): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\library\gl\glui.h(883,31): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\library\gl\glui.h(947,24): warning C4834: 放弃具有 "nodiscard" 属性的函数的返回值
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\library\gl\glui.h(1175,28): warning C4251: “GLUI_FileBrowser::current_dir”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“GLUI_FileBrowser”的客户端使用
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\xstring(4648): message : 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\library\gl\glui.h(1204,21): warning C4251: “GLUI_FileBrowser::file”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“GLUI_FileBrowser”的客户端使用
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\xstring(4648): message : 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\library\gl\glui.h(1300,28): warning C4251: “GLUI_Tree::level_name”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“GLUI_Tree”的客户端使用
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\xstring(4648): message : 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\library\gl\glui.h(1599,34): warning C4251: “GLUI_EditText::orig_text”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“GLUI_EditText”的客户端使用
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\xstring(4648): message : 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\vector(1750,1): warning C4251: “std::vector<GLUI_String,std::allocator<GLUI_String>>::_Mypair”: class“std::_Compressed_pair<std::allocator<GLUI_String>,std::_Vector_val<std::_Simple_types<_Ty>>,true>”需要有 dll 接口由 class“std::vector<GLUI_String,std::allocator<GLUI_String>>”的客户端使用
+          with
+          [
+              _Ty=GLUI_String
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\vector(1750): message : 参见“std::_Compressed_pair<std::allocator<GLUI_String>,std::_Vector_val<std::_Simple_types<_Ty>>,true>”的声明
+          with
+          [
+              _Ty=GLUI_String
+          ]
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\library\gl\glui.h(1712): message : 查看对正在编译的 类 模板 实例化“std::vector<GLUI_String,std::allocator<GLUI_String>>”的引用
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\library\gl\glui.h(2011,34): warning C4251: “GLUI_TextBox::orig_text”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“GLUI_TextBox”的客户端使用
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\xstring(4648): message : 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\library\gl\glui.h(2107,21): warning C4251: “GLUI_List_Item::text”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“GLUI_List_Item”的客户端使用
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\xstring(4648): message : 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\library\gl\glui.h(2134,34): warning C4251: “GLUI_List::orig_text”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“GLUI_List”的客户端使用
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\xstring(4648): message : 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\library\gl\glui.h(2340,21): warning C4251: “GLUI_Listbox_Item::text”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“GLUI_Listbox_Item”的客户端使用
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\xstring(4648): message : 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\library\gl\glui.h(2347,32): warning C4251: “GLUI_Listbox::curr_text”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“GLUI_Listbox”的客户端使用
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\xstring(4648): message : 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\CG2020.cpp(65,19): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\CG2020.cpp(68,19): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\CG2020.cpp(78,54): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\CG2020.cpp(78,34): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\CG2020.cpp(148,25): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\CG2020.cpp(148,18): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\CG2020.cpp(148,11): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\CG2020.cpp(149,32): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\CG2020.cpp(149,15): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\CG2020.cpp(150,12): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\CG2020.cpp(151,12): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\CG2020.cpp(161,46): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\CG2020.cpp(162,51): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\CG2020.cpp(162,40): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\CG2020.cpp(163,40): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\CG2020.cpp(194,46): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\CG2020.cpp(195,51): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\CG2020.cpp(195,40): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\CG2020.cpp(196,40): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\CG2020.cpp(214,46): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\CG2020.cpp(215,51): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\CG2020.cpp(215,40): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\CG2020.cpp(216,40): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\CG2020.cpp(251,86): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\CG2020.cpp(251,51): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\CG2020.cpp(252,64): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\CG2020.cpp(252,39): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\CG2020.cpp(253,64): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\CG2020.cpp(253,39): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\CG2020.cpp(254,64): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\CG2020.cpp(254,39): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\CG2020.cpp(315,21): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\CG2020.cpp(317,20): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\CG2020.cpp(381,10): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\CG2020.cpp(382,10): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\CG2020.cpp(385,17): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\CG2020.cpp(386,18): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\CG2020.cpp(387,11): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\CG2020.cpp(422,54): warning C4244: “+=”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\CG2020.cpp(424,54): warning C4244: “+=”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\CG2020.cpp(428,54): warning C4244: “-=”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\CG2020.cpp(429,54): warning C4244: “-=”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\CG2020.cpp(489,20): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\CG2020.cpp(490,20): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\CG2020.cpp(662,10): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\CG2020.cpp(664,10): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\CG2020.cpp(665,20): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\CG2020.cpp(672,30): warning C4305: “参数”: 从“double”到“GLfloat”截断
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\CG2020.cpp(715,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\CG2020.cpp(722,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\CG2020.cpp(729,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\CG2020.cpp(736,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\CG2020.cpp(745,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\CG2020.cpp(830,60): warning C4244: “参数”: 从“GLfloat”转换到“int”，可能丢失数据
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\CG2020.cpp(830,43): warning C4244: “参数”: 从“GLfloat”转换到“int”，可能丢失数据
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\CG2020.cpp(837,80): warning C4244: “参数”: 从“GLfloat”转换到“int”，可能丢失数据
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\CG2020.cpp(837,63): warning C4244: “参数”: 从“GLfloat”转换到“int”，可能丢失数据
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\CG2020.cpp(837,41): warning C4244: “参数”: 从“GLfloat”转换到“int”，可能丢失数据
+  ParticleSystem.h
+  texture.cpp
+  utility.cpp
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\utility.cpp(18,19): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\CG2020\utility.cpp(18,16): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+  正在生成代码...
+freeglut_staticd.lib(fg_callbacks.obj) : warning LNK4099: 未找到 PDB“freeglut_static.pdb”(使用“freeglut_staticd.lib(fg_callbacks.obj)”或在“D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\Debug\freeglut_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+freeglut_staticd.lib(fg_cursor.obj) : warning LNK4099: 未找到 PDB“freeglut_static.pdb”(使用“freeglut_staticd.lib(fg_cursor.obj)”或在“D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\Debug\freeglut_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+freeglut_staticd.lib(fg_display.obj) : warning LNK4099: 未找到 PDB“”(使用“freeglut_staticd.lib(fg_display.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+freeglut_staticd.lib(fg_ext.obj) : warning LNK4099: 未找到 PDB“freeglut_static.pdb”(使用“freeglut_staticd.lib(fg_ext.obj)”或在“D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\Debug\freeglut_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+freeglut_staticd.lib(fg_font_data.obj) : warning LNK4099: 未找到 PDB“freeglut_static.pdb”(使用“freeglut_staticd.lib(fg_font_data.obj)”或在“D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\Debug\freeglut_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+freeglut_staticd.lib(fg_gamemode.obj) : warning LNK4099: 未找到 PDB“freeglut_static.pdb”(使用“freeglut_staticd.lib(fg_gamemode.obj)”或在“D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\Debug\freeglut_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+freeglut_staticd.lib(fg_geometry.obj) : warning LNK4099: 未找到 PDB“”(使用“freeglut_staticd.lib(fg_geometry.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+freeglut_staticd.lib(fg_gl2.obj) : warning LNK4099: 未找到 PDB“freeglut_static.pdb”(使用“freeglut_staticd.lib(fg_gl2.obj)”或在“D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\Debug\freeglut_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+freeglut_staticd.lib(fg_init.obj) : warning LNK4099: 未找到 PDB“freeglut_static.pdb”(使用“freeglut_staticd.lib(fg_init.obj)”或在“D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\Debug\freeglut_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+freeglut_staticd.lib(fg_input_devices.obj) : warning LNK4099: 未找到 PDB“”(使用“freeglut_staticd.lib(fg_input_devices.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+freeglut_staticd.lib(fg_joystick.obj) : warning LNK4099: 未找到 PDB“freeglut_static.pdb”(使用“freeglut_staticd.lib(fg_joystick.obj)”或在“D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\Debug\freeglut_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+freeglut_staticd.lib(fg_main.obj) : warning LNK4099: 未找到 PDB“freeglut_static.pdb”(使用“freeglut_staticd.lib(fg_main.obj)”或在“D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\Debug\freeglut_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+freeglut_staticd.lib(fg_misc.obj) : warning LNK4099: 未找到 PDB“”(使用“freeglut_staticd.lib(fg_misc.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+freeglut_staticd.lib(fg_overlay.obj) : warning LNK4099: 未找到 PDB“freeglut_static.pdb”(使用“freeglut_staticd.lib(fg_overlay.obj)”或在“D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\Debug\freeglut_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+freeglut_staticd.lib(fg_spaceball.obj) : warning LNK4099: 未找到 PDB“freeglut_static.pdb”(使用“freeglut_staticd.lib(fg_spaceball.obj)”或在“D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\Debug\freeglut_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+freeglut_staticd.lib(fg_state.obj) : warning LNK4099: 未找到 PDB“”(使用“freeglut_staticd.lib(fg_state.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+freeglut_staticd.lib(fg_stroke_mono_roman.obj) : warning LNK4099: 未找到 PDB“freeglut_static.pdb”(使用“freeglut_staticd.lib(fg_stroke_mono_roman.obj)”或在“D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\Debug\freeglut_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+freeglut_staticd.lib(fg_stroke_roman.obj) : warning LNK4099: 未找到 PDB“freeglut_static.pdb”(使用“freeglut_staticd.lib(fg_stroke_roman.obj)”或在“D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\Debug\freeglut_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+freeglut_staticd.lib(fg_structure.obj) : warning LNK4099: 未找到 PDB“”(使用“freeglut_staticd.lib(fg_structure.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+freeglut_staticd.lib(fg_teapot.obj) : warning LNK4099: 未找到 PDB“freeglut_static.pdb”(使用“freeglut_staticd.lib(fg_teapot.obj)”或在“D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\Debug\freeglut_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+freeglut_staticd.lib(fg_videoresize.obj) : warning LNK4099: 未找到 PDB“freeglut_static.pdb”(使用“freeglut_staticd.lib(fg_videoresize.obj)”或在“D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\Debug\freeglut_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+freeglut_staticd.lib(fg_window.obj) : warning LNK4099: 未找到 PDB“freeglut_static.pdb”(使用“freeglut_staticd.lib(fg_window.obj)”或在“D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\Debug\freeglut_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+freeglut_staticd.lib(fg_font.obj) : warning LNK4099: 未找到 PDB“freeglut_static.pdb”(使用“freeglut_staticd.lib(fg_font.obj)”或在“D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\Debug\freeglut_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+freeglut_staticd.lib(fg_menu.obj) : warning LNK4099: 未找到 PDB“freeglut_static.pdb”(使用“freeglut_staticd.lib(fg_menu.obj)”或在“D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\Debug\freeglut_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+freeglut_staticd.lib(fg_cursor_mswin.obj) : warning LNK4099: 未找到 PDB“”(使用“freeglut_staticd.lib(fg_cursor_mswin.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+freeglut_staticd.lib(fg_display_mswin.obj) : warning LNK4099: 未找到 PDB“freeglut_static.pdb”(使用“freeglut_staticd.lib(fg_display_mswin.obj)”或在“D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\Debug\freeglut_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+freeglut_staticd.lib(fg_ext_mswin.obj) : warning LNK4099: 未找到 PDB“freeglut_static.pdb”(使用“freeglut_staticd.lib(fg_ext_mswin.obj)”或在“D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\Debug\freeglut_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+freeglut_staticd.lib(fg_gamemode_mswin.obj) : warning LNK4099: 未找到 PDB“”(使用“freeglut_staticd.lib(fg_gamemode_mswin.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+freeglut_staticd.lib(fg_init_mswin.obj) : warning LNK4099: 未找到 PDB“freeglut_static.pdb”(使用“freeglut_staticd.lib(fg_init_mswin.obj)”或在“D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\Debug\freeglut_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+freeglut_staticd.lib(fg_input_devices_mswin.obj) : warning LNK4099: 未找到 PDB“freeglut_static.pdb”(使用“freeglut_staticd.lib(fg_input_devices_mswin.obj)”或在“D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\Debug\freeglut_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+freeglut_staticd.lib(fg_joystick_mswin.obj) : warning LNK4099: 未找到 PDB“”(使用“freeglut_staticd.lib(fg_joystick_mswin.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+freeglut_staticd.lib(fg_main_mswin.obj) : warning LNK4099: 未找到 PDB“freeglut_static.pdb”(使用“freeglut_staticd.lib(fg_main_mswin.obj)”或在“D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\Debug\freeglut_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+freeglut_staticd.lib(fg_menu_mswin.obj) : warning LNK4099: 未找到 PDB“freeglut_static.pdb”(使用“freeglut_staticd.lib(fg_menu_mswin.obj)”或在“D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\Debug\freeglut_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+freeglut_staticd.lib(fg_spaceball_mswin.obj) : warning LNK4099: 未找到 PDB“”(使用“freeglut_staticd.lib(fg_spaceball_mswin.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+freeglut_staticd.lib(fg_state_mswin.obj) : warning LNK4099: 未找到 PDB“freeglut_static.pdb”(使用“freeglut_staticd.lib(fg_state_mswin.obj)”或在“D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\Debug\freeglut_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+freeglut_staticd.lib(fg_structure_mswin.obj) : warning LNK4099: 未找到 PDB“freeglut_static.pdb”(使用“freeglut_staticd.lib(fg_structure_mswin.obj)”或在“D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\Debug\freeglut_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+freeglut_staticd.lib(fg_window_mswin.obj) : warning LNK4099: 未找到 PDB“”(使用“freeglut_staticd.lib(fg_window_mswin.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+freeglut_staticd.lib(xparsegeometry_repl.obj) : warning LNK4099: 未找到 PDB“freeglut_static.pdb”(使用“freeglut_staticd.lib(xparsegeometry_repl.obj)”或在“D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\Debug\freeglut_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  CG2020.vcxproj -> D:\ZJU Courses\CS Course\Computer Graphics\Project\CG2020-ctrl-new\CG2020\Debug\CG2020.exe

@@ -1,12 +1,14 @@
 # ZJU-Courses
 Record the courses I have taken in ZJU.
-- Data Structre
 - Advanced Data Structre and Algorithms
-- Computer Vision
+- C++ (Object-Oriented Programming)
 - Computer Graphics
-- Operating System
-- Software Security
+- Computer Vision
+- Data Structre
+- Information Hiding and Digital Watermarking
 - Information Security
-- Network Security
 - Intelligent Acquisition of Visual Information
-
+- Network Security
+- Operating System
+- Practical Optimization Algorithms
+- Software Security
